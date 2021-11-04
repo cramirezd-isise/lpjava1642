@@ -28,8 +28,6 @@ public class Conexion {
     private static String driverMySQL = "com.mysql.cj.jdbc.Driver";
     private static String driverSQL = "com.microsoft.sqlserver.jdbc.SQLServerDriver";
     
-    
-    
     Connection connMySQL = null;
     Connection connSQLSERVER = null;
     
